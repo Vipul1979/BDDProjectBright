@@ -22,3 +22,4 @@ public class Resultpage extends DriverFactory {
         Assert.assertThat(actualruningrusult,Matchers.containsString("Running"));
     }
 }//Class end
+//pull practice
